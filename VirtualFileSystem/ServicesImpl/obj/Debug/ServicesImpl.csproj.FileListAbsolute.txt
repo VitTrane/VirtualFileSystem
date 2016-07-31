@@ -1,0 +1,13 @@
+E:\My\Labs\Epam\VirtualFileSystem\ServicesImpl\bin\Debug\ServicesImpl.dll
+E:\My\Labs\Epam\VirtualFileSystem\ServicesImpl\bin\Debug\ServicesImpl.pdb
+E:\My\Labs\Epam\VirtualFileSystem\ServicesImpl\bin\Debug\Infrastructure.dll
+E:\My\Labs\Epam\VirtualFileSystem\ServicesImpl\bin\Debug\ServiceDomainModel.dll
+E:\My\Labs\Epam\VirtualFileSystem\ServicesImpl\bin\Debug\Services.dll
+E:\My\Labs\Epam\VirtualFileSystem\ServicesImpl\bin\Debug\System.Data.SQLite.dll
+E:\My\Labs\Epam\VirtualFileSystem\ServicesImpl\bin\Debug\Infrastructure.pdb
+E:\My\Labs\Epam\VirtualFileSystem\ServicesImpl\bin\Debug\ServiceDomainModel.pdb
+E:\My\Labs\Epam\VirtualFileSystem\ServicesImpl\bin\Debug\Services.pdb
+E:\My\Labs\Epam\VirtualFileSystem\ServicesImpl\bin\Debug\System.Data.SQLite.xml
+E:\My\Labs\Epam\VirtualFileSystem\ServicesImpl\obj\Debug\ServicesImpl.csprojResolveAssemblyReference.cache
+E:\My\Labs\Epam\VirtualFileSystem\ServicesImpl\obj\Debug\ServicesImpl.dll
+E:\My\Labs\Epam\VirtualFileSystem\ServicesImpl\obj\Debug\ServicesImpl.pdb

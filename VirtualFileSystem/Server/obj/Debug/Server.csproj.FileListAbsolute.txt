@@ -1,0 +1,17 @@
+E:\My\Labs\Epam\VirtualFileSystem\Server\bin\Debug\Logging.config
+E:\My\Labs\Epam\VirtualFileSystem\Server\bin\Debug\Server.exe.config
+E:\My\Labs\Epam\VirtualFileSystem\Server\bin\Debug\Server.exe
+E:\My\Labs\Epam\VirtualFileSystem\Server\bin\Debug\Server.pdb
+E:\My\Labs\Epam\VirtualFileSystem\Server\bin\Debug\Infrastructure.dll
+E:\My\Labs\Epam\VirtualFileSystem\Server\bin\Debug\ServiceDomainModel.dll
+E:\My\Labs\Epam\VirtualFileSystem\Server\bin\Debug\Services.dll
+E:\My\Labs\Epam\VirtualFileSystem\Server\bin\Debug\ServicesImpl.dll
+E:\My\Labs\Epam\VirtualFileSystem\Server\bin\Debug\System.Data.SQLite.dll
+E:\My\Labs\Epam\VirtualFileSystem\Server\bin\Debug\Infrastructure.pdb
+E:\My\Labs\Epam\VirtualFileSystem\Server\bin\Debug\ServiceDomainModel.pdb
+E:\My\Labs\Epam\VirtualFileSystem\Server\bin\Debug\ServicesImpl.pdb
+E:\My\Labs\Epam\VirtualFileSystem\Server\bin\Debug\Services.pdb
+E:\My\Labs\Epam\VirtualFileSystem\Server\bin\Debug\System.Data.SQLite.xml
+E:\My\Labs\Epam\VirtualFileSystem\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\My\Labs\Epam\VirtualFileSystem\Server\obj\Debug\Server.exe
+E:\My\Labs\Epam\VirtualFileSystem\Server\obj\Debug\Server.pdb

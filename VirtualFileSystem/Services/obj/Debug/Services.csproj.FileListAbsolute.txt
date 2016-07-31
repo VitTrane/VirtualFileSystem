@@ -1,0 +1,7 @@
+E:\My\Labs\Epam\VirtualFileSystem\Services\bin\Debug\Services.dll
+E:\My\Labs\Epam\VirtualFileSystem\Services\bin\Debug\Services.pdb
+E:\My\Labs\Epam\VirtualFileSystem\Services\bin\Debug\ServiceDomainModel.dll
+E:\My\Labs\Epam\VirtualFileSystem\Services\bin\Debug\ServiceDomainModel.pdb
+E:\My\Labs\Epam\VirtualFileSystem\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+E:\My\Labs\Epam\VirtualFileSystem\Services\obj\Debug\Services.dll
+E:\My\Labs\Epam\VirtualFileSystem\Services\obj\Debug\Services.pdb
