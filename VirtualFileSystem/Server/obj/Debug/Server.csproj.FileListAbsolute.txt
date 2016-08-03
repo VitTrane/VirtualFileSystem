@@ -15,3 +15,6 @@ E:\My\Labs\Epam\VirtualFileSystem\Server\bin\Debug\System.Data.SQLite.xml
 E:\My\Labs\Epam\VirtualFileSystem\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
 E:\My\Labs\Epam\VirtualFileSystem\Server\obj\Debug\Server.exe
 E:\My\Labs\Epam\VirtualFileSystem\Server\obj\Debug\Server.pdb
+E:\My\Git\GitHubVirtualFileSystem\VirtualFileSystem\Server\bin\Debug\Server.exe.config
+E:\My\Git\GitHubVirtualFileSystem\VirtualFileSystem\Server\obj\Debug\Server.exe
+E:\My\Git\GitHubVirtualFileSystem\VirtualFileSystem\Server\obj\Debug\Server.pdb

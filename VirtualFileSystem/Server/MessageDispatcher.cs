@@ -9,7 +9,7 @@ using System.Runtime.Serialization.Formatters.Binary;
 
 namespace Server
 {
-    public class MessageDispatcher
+    public class MessageDispatcher : IDisposable
     {
         private LocalFileSystem _fileSystem;
 
@@ -106,10 +106,7 @@ namespace Server
             return command;
         }
 
-        /// <summary>
-        /// Закрывает прослушивание клиентов
-        /// </summary>
-        public void Stop() 
+        public void Dispose()
         {
             _client.Close();
             _tcpListener.Stop();

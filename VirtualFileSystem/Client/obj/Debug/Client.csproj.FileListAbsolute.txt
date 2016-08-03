@@ -13,3 +13,6 @@ E:\My\Labs\Epam\VirtualFileSystem\Client\bin\Debug\System.Data.SQLite.xml
 E:\My\Labs\Epam\VirtualFileSystem\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
 E:\My\Labs\Epam\VirtualFileSystem\Client\obj\Debug\Client.exe
 E:\My\Labs\Epam\VirtualFileSystem\Client\obj\Debug\Client.pdb
+E:\My\Git\GitHubVirtualFileSystem\VirtualFileSystem\Client\bin\Debug\Client.exe.config
+E:\My\Git\GitHubVirtualFileSystem\VirtualFileSystem\Client\obj\Debug\Client.exe
+E:\My\Git\GitHubVirtualFileSystem\VirtualFileSystem\Client\obj\Debug\Client.pdb

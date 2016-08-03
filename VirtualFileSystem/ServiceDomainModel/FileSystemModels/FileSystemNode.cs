@@ -5,34 +5,13 @@ namespace ServiceDomainModel
     [Serializable]
     public abstract class FileSystemNode
     {
-        private string _path;
-        private string _name;
-        private Folder _parent;
-        private TypeFileSystemNode fileType;
+        public TypeFileSystemNode FileType { get; protected set; }
 
-        public TypeFileSystemNode FileType
-        {
-            get { return fileType; }
-            protected set { fileType = value; }
-        }
+        public string Path { get; set; }
 
-        public string Path
-        {
-            get { return _path; }
-            set { _path = value; }
-        }
+        public string Name { get; set; }
 
-        public string Name
-        {
-            get { return _name; }
-            set { _name = value; }
-        }
-
-        public Folder Parent
-        {
-            get { return _parent; }
-            set { _parent = value; }
-        }
+        public Folder Parent { get; set; }
 
         public FileSystemNode()
         {
@@ -40,8 +19,8 @@ namespace ServiceDomainModel
 
         public FileSystemNode(string path, string name)
         {
-            _path = path;
-            _name = name;
+            Path = path;
+            Name = name;
         }  
     }
 }
